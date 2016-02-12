@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Takaaki Yokoyama
+#witten by T.YOkoyama
 
 exec 2> /tmp/setup.log
 
